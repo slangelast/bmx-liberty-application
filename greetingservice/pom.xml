@@ -7,12 +7,12 @@
 	<packaging>war</packaging>
 	<name>GreetingService</name>
 
-	<parent>
-		<groupId>net.wasdev.maven.parent</groupId>
-		<artifactId>java8-parent</artifactId>
-		<version>1.4</version>
-        <relativePath></relativePath>
-	</parent>
+<!-- 	<parent> -->
+<!-- 		<groupId>net.wasdev.maven.parent</groupId> -->
+<!-- 		<artifactId>java8-parent</artifactId> -->
+<!-- 		<version>1.4</version> -->
+<!--         <relativePath></relativePath> -->
+<!-- 	</parent> -->
 
 	<dependencyManagement>
 		<dependencies>
