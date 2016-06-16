@@ -1,0 +1,6 @@
+---
+applications:
+- name: sll-greetingservice
+  memory: 512M
+  host: sll-greetingservice
+  domain: eu-gb.mybluemix.net
